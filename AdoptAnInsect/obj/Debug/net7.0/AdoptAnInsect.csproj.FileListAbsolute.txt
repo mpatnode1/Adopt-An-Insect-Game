@@ -1,0 +1,15 @@
+/Users/meghanpatnode/Programming/AdoptAnInsect/obj/Debug/net7.0/AdoptAnInsect.csproj.AssemblyReference.cache
+/Users/meghanpatnode/Programming/AdoptAnInsect/obj/Debug/net7.0/AdoptAnInsect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghanpatnode/Programming/AdoptAnInsect/obj/Debug/net7.0/AdoptAnInsect.AssemblyInfoInputs.cache
+/Users/meghanpatnode/Programming/AdoptAnInsect/obj/Debug/net7.0/AdoptAnInsect.AssemblyInfo.cs
+/Users/meghanpatnode/Programming/AdoptAnInsect/obj/Debug/net7.0/AdoptAnInsect.csproj.CoreCompileInputs.cache
+/Users/meghanpatnode/Programming/AdoptAnInsect/bin/Debug/net7.0/AdoptAnInsect
+/Users/meghanpatnode/Programming/AdoptAnInsect/bin/Debug/net7.0/AdoptAnInsect.deps.json
+/Users/meghanpatnode/Programming/AdoptAnInsect/bin/Debug/net7.0/AdoptAnInsect.runtimeconfig.json
+/Users/meghanpatnode/Programming/AdoptAnInsect/bin/Debug/net7.0/AdoptAnInsect.dll
+/Users/meghanpatnode/Programming/AdoptAnInsect/bin/Debug/net7.0/AdoptAnInsect.pdb
+/Users/meghanpatnode/Programming/AdoptAnInsect/obj/Debug/net7.0/AdoptAnInsect.dll
+/Users/meghanpatnode/Programming/AdoptAnInsect/obj/Debug/net7.0/refint/AdoptAnInsect.dll
+/Users/meghanpatnode/Programming/AdoptAnInsect/obj/Debug/net7.0/AdoptAnInsect.pdb
+/Users/meghanpatnode/Programming/AdoptAnInsect/obj/Debug/net7.0/AdoptAnInsect.genruntimeconfig.cache
+/Users/meghanpatnode/Programming/AdoptAnInsect/obj/Debug/net7.0/ref/AdoptAnInsect.dll

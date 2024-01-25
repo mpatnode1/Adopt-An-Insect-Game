@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdoptAnInsect", "AdoptAnInsect.csproj", "{1624ED47-EF90-414F-BC55-0D0E3F3EBC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1624ED47-EF90-414F-BC55-0D0E3F3EBC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1624ED47-EF90-414F-BC55-0D0E3F3EBC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1624ED47-EF90-414F-BC55-0D0E3F3EBC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1624ED47-EF90-414F-BC55-0D0E3F3EBC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF8816B0-2D1A-4194-B866-1162A8DA5FBA}
+	EndGlobalSection
+EndGlobal
